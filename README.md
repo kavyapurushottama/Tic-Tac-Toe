@@ -5,6 +5,5 @@ A game consisting of 2 players namely "X" and "O" where a player wins if he/she 
      Tkinter
 Tkinter- Python GUI framework that allows for buttons, graphics and alot of other things to be done in a window.
  # Screenshots:
-![Screenshot (10)](https://github.com/kavyapurushottama/Tic-Tac-Toe/assets/134777490/8b2404d5-ec55-4c2e-ba64-9d7d0d9d5ecf)
-![Screenshot (11)](https://github.com/kavyapurushottama/Tic-Tac-Toe/assets/134777490/f5fa0c33-ddab-4007-a044-96889451be8a)
-
+<img src="https://github.com/kavyapurushottama/Tic-Tac-Toe/assets/134777490/8b2404d5-ec55-4c2e-ba64-9d7d0d9d5ecf" width="300" height="400">
+<img src="https://github.com/kavyapurushottama/Tic-Tac-Toe/assets/134777490/f5fa0c33-ddab-4007-a044-96889451be8a" width="300" height="400">
